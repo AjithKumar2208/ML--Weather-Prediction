@@ -26,12 +26,6 @@ Developed by: Ajith Kumar M
 RegisterNumber:  212224060010
 */
 
-/*
-Program to implement the Random Forest Algorithm to predict daily temperature , PM2.5 pollution level and Energy based on environmental sensor data.
-Developed by: VARSHINI K M
-RegisterNumber:  212225240179
-*/
-
 import pandas as pd
 import numpy as np
 from sklearn.ensemble import RandomForestRegressor
